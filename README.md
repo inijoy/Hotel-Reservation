@@ -86,7 +86,7 @@ Metrics
 - Revenue and Occupancy Rate bi IsFestive
 	Visuals: Used line charts, and time slicers to offer dynamic insights into time-based trends, allowing users to view data by day, month, quarter, or year using drill through.
 
-![Time Analysis]()
+![Time Analysis Hoter Reservation2024-10-29 011431.png]()
 ___
 
 ##  CONCLUSION

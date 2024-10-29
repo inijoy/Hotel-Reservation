@@ -26,6 +26,7 @@ ___
 •	Established relationships between tables to connect customer demographics, reservation data, and agent records.
 •	Created a relational model to allow complex analysis, such as cross-referencing agent performance with customer satisfaction or cancellation trends
 ![Modelling Hotel Reservation 2024-10-29 014542.png]()
+
 ___
 ##  ANALYSIS AND VISUALIZATION
 

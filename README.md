@@ -36,7 +36,7 @@ The Report Comprises of four Pages
 3. CUSTOMER INSIGHT
 4. TIME ANALYSIS
 
-You can interact with the report here (https://drive.google.com/file/d/1Dtqf_83XPlhpEl2uEeXvxX0u-wIuI7xx/view?usp=sharing)
+You can interact with the report [here] (https://drive.google.com/file/d/1Dtqf_83XPlhpEl2uEeXvxX0u-wIuI7xx/view?usp=sharing)
 
 ## KPIs
 Key performance indicators were visualized to provide a quick overview of the hotel’s performance. KPIs include:
